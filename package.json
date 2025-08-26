@@ -1,0 +1,24 @@
+{
+  "name": "s70_shreeya_genaiproject_fineprint",
+  "version": "1.0.0",
+  "description": "FinePrint is an AI-powered tool that simplifies dense legal documents like terms of service or privacy policies. Users can upload a document and ask plain-English questions, and the system uses Retrieval-Augmented Generation (RAG) to find relevant sections from the text. It then returns structured, easy-to-understand answers highlighting key clauses, risk levels, and action suggestions. With built-in function calling, FinePrint can flag problematic clauses, generate summary reports, or send alerts — all triggered directly from user input. Powered by advanced prompting and structured output, it makes legal language accessible, transparent, and actionable for everyone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S70_Shreeya_GenAIProject_FinePrint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S70_Shreeya_GenAIProject_FinePrint/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S70_Shreeya_GenAIProject_FinePrint#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}
