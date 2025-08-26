@@ -11,4 +11,4 @@ Uses user prompt for acquiring the large text chunks and produces predictable an
 uses function calling for an interactive and not just descriptive
 
 #Structured output: 
-providing structured output by making it easy to display in the form of flashcards or tables, easy to use programme and test it
+providing structured output by making it easy to display in the form of flashcards or tables, easy to use programme and test it .
